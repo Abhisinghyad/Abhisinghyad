@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Singh
 
-<!--
-**Abhisinghyad/Abhisinghyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 SDET | Automation Tester | 4.6+ Years Experience  
+💻 Skilled in Selenium, Playwright (Java), API Testing  
+📊 Passionate about building scalable test frameworks  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Automation: Selenium | Playwright | TestNG  
+- Language: Java  
+- API Testing: Rest Assured, Postman  
+- CI/CD: Jenkins  
+- Reporting: Extent Reports  
+
+---
+
+## 📌 Projects
+### 🔹 Playwright Automation Framework
+- Built hybrid framework using Java + TestNG  
+- Implemented Page Object Model (POM)  
+- Integrated Extent Reports & Email reporting  
+
+### 🔹 API Automation Framework
+- Rest Assured framework with TestNG  
+- Validations for response, schema, status codes  
+---
+
+## 📫 Contact Me
+- LinkedIn: (https://www.linkedin.com/in/abhishek-singhyadav/)
+- Email: (abhi.singhyad@gmail.com)
