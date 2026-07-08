@@ -188,3 +188,21 @@ End-to-end automation framework designed using Selenium WebDriver, Java, TestNG,
 https://linkedin.com/in/abhisheksinghyadav
 💻 GitHub:
 https://github.com/Abhisinghyad
+
+---
+
+## 📚 Public Repositories
+
+Below are my public GitHub repositories (links, primary language/description, last updated):
+
+- [Abhisinghyad](https://github.com/Abhisinghyad/Abhisinghyad) — (This repository) — Language: N/A — Updated: 34 days
+- [AutomationCICD](https://github.com/Abhisinghyad/AutomationCICD) — Language: HTML — Updated: 05 October 2024
+- [HTML](https://github.com/Abhisinghyad/HTML) — Language: HTML — Updated: 23 June 2022
+- [HTML_Abhi](https://github.com/Abhisinghyad/HTML_Abhi) — Description: Pratice HTML — Language: HTML — Updated: 28 June 2022
+- [JAVA](https://github.com/Abhisinghyad/JAVA) — Language: Java — Updated: 30 November 2022
+- [LearningAutomation](https://github.com/Abhisinghyad/LearningAutomation) — Language: N/A — Updated: 48 days
+- [New-Reprositories](https://github.com/Abhisinghyad/New-Reprositories) — Description: This your first repo! — Updated: 10 January 2023
+- [PageObjectModel](https://github.com/Abhisinghyad/PageObjectModel) — Description: Maven — Language: HTML — Updated: 13 August 2025
+- [PlaywirghtwithJavaScript](https://github.com/Abhisinghyad/PlaywirghtwithJavaScript) — Description: Learning — Updated: 25 May 2026
+
+If you'd like me to reorder these, include repo topics/README excerpts, or auto-generate badges for each project, I can update the file further.
